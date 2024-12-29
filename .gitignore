@@ -190,8 +190,6 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/kicad,images,linux,windows,macos,freecad
 
-exports/*
-
 *.zip
 *.ogv
 *.log
@@ -202,3 +200,9 @@ exports/*
 !*.jpeg
 !*.png
 !*.pdf
+!*.SLDPRT
+!*.SLDASM
+!*.STEP
+!*.step
+!*.x_b
+!*.f3z
