@@ -2,10 +2,8 @@
 
 Portable light pole for cozy ambient lightings
 
-> [!IMPORTANT]
-*Work in progress.*
-
-![project-picture](static/project-header.png)
+<img src="static/project-header-1.png" alt="version1" width="49%"/>
+<img src="static/project-header-2.png" alt="version2" width="49%"/>
 
 ---
 ## Parts list
