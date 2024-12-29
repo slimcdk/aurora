@@ -2,9 +2,10 @@
 
 Portable light pole for cozy ambient lightings
 
-<img src="static/project-header-1.png" alt="version1" width="49%"/>
-<img src="static/project-header-2.png" alt="version2" width="49%"/>
-
+<div align="center">
+    <img src="static/project-header-1.png" alt="version1" width="49%"/>
+    <img src="static/project-header-2.png" alt="version2" width="49%"/>
+</div>
 ---
 ## Parts list
 
